@@ -1,0 +1,41 @@
+.class{   
+    position: relative  ;
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 25px;
+margin-left: 83px;
+}
+.lorem{
+    margin: auto;
+}
+.sss{
+    z-index: 1;
+    position: relative;
+}
+.lll{
+    
+margin-top: 70px;
+}
+
+.llll{
+    z-index:2;
+    
+    position: absolute;
+    margin-left: 100px;
+}
+.dars{
+    color: white;
+    margin-top: -400px;
+    margin-left: 500px;
+}
+.text{
+ color: white;
+ margin-left: 500px;
+ margin-top: 50px;
+}
+.killer{
+    margin-top: 70px;
+    border: none;
+    background-color: rgb(36, 201, 36);
+    color: white;
+}
